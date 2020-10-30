@@ -1,0 +1,30 @@
+a{
+    margin: 130px; text-decoration: none; color: black;
+}
+
+h1{
+    text-align: center; margin-top: 50px;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+h2{
+    text-align: center; margin-top: 50px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+img{
+    height: 50px;
+    color: deeppink;
+    
+}
+#bot{
+    position: fixed; bottom: 0; 
+}
+#aliatrais{
+    background-image: url("img/tela.jpg");
+    color: darkorchid;
+    height: 75%;
+
+
+}
+body{
+    height: 100vh;
+}

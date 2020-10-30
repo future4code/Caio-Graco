@@ -1,0 +1,16 @@
+a{
+    margin: 130px; text-decoration: none; color: black;
+}
+h1{
+    text-align: center; margin-top: 50px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+form{
+    border: 1px solid black;
+    padding: 22px;
+  
+}
+.blockDiv{
+    display: block;
+
+}

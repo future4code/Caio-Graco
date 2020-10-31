@@ -1,0 +1,50 @@
+*{
+    font-family: 'Henny Penny', cursive; 
+    margin: 0; 
+    padding: 0;
+}
+a{
+    margin:0 6%; 
+    text-decoration: none; 
+    color: black;
+    padding: 1%
+    
+}
+a:hover{
+    background-color: white;
+}
+
+h1{
+    text-align: center; 
+    margin-top: 8%;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+h2{
+    text-align: center; 
+    margin-top: 2%;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+img{
+    height: 50px;
+    color: deeppink;
+    
+}
+#bot{
+    position: fixed; 
+    bottom: 0; 
+}
+#aliatrais{
+    color: black;
+    height: 75%;
+
+
+}
+body{
+    height: 60vh;
+    background-image: url("img/bat4.gif");
+    background-repeat: no-repeat;
+}
+#nav{
+    background-color: orangered;
+    height: 10%;
+}

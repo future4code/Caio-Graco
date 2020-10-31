@@ -1,0 +1,26 @@
+a{
+    margin: 6%; 
+    text-decoration: none; 
+    color: black;
+    padding: 1%
+}
+a:hover{
+    background-color: white;
+}
+#nav{
+    background-color: orangered;
+    height: 10%;
+}
+h1{
+    text-align: center; margin-top: 50px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+form{
+    border: 1px solid black;
+    padding: 22px;
+  
+}
+.blockDiv{
+    display: block;
+
+}

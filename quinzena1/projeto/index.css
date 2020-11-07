@@ -1,0 +1,32 @@
+a{
+   
+    
+
+}
+header{
+    position: fixed;
+    width: 100%;
+    background-color: gray;
+    padding: 1%;
+
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+#foto{
+    height: 100vh;
+    padding: 2%;
+}
+#dados{
+    height: 100vh;
+    padding: 4%;
+}
+#experiencias{
+    height: 100vh;
+    padding: 4%;
+}
+#projetos{
+    height: 100vh;
+    padding: 4%;
+}
